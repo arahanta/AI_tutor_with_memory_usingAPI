@@ -10,7 +10,12 @@ This project implements a personal AI tutor that uses OpenAI's GPT model to answ
 - Real-Time Memory Storage: Conversations are stored in memory in real-time, allowing continuity in future sessions.
 
 
-
+##  Clone the repository:
+```bash
+git clone https://github.com/yourusername/personal-ai-tutor.git
+cd personal-ai-tutor
+ 
+```
 
 
   ## Installation and Setup
